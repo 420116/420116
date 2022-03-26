@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ashish Baghel
 - 👀 I’m interested in fullstack projects
-- 🌱 I’m currently learning node and other related topics 
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ashishspacebaghel@gmail.com
 
 <!---
