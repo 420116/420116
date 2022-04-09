@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Baghel
 - 👀 I’m interested in fullstack projects
 - 📫 How to reach me ashishspacebaghel@gmail.com
--  Sample React Apps, developed by me -
+-  Sample React Apps, developed by me - <br>
     https://bhavya-beauty-makover.netlify.app/ <br>
     https://ecomm-prac.netlify.app/
 <!---
